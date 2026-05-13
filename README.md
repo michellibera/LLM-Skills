@@ -1,2 +1,2 @@
 # LLM-Skills
-1. ahp-decision — Multi-criteria decision support using the Analytic Hierarchy Process. Conversational interface over pairwise comparisons, consistency checks, and sensitivity analysis.
+1. **ahp-decision** — Multi-criteria decision support using the Analytic Hierarchy Process. Conversational interface over pairwise comparisons, consistency checks, and sensitivity analysis.
